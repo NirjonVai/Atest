@@ -41,7 +41,7 @@
         }
         
         function goToReward() {
-            window.location.href = 'Reward.html';
+            window.location.href = 'reward.html';
         }
         
         
